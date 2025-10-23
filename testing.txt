@@ -1,0 +1,38 @@
+0
+front: error, queue is empty, cannot access the front
+back: error, queue is empty, cannot access the back
+10
+0
+900
+dequeuing 0
+9
+next 100
+dequeuing 100
+8
+next 200
+dequeuing 200
+7
+next 300
+dequeuing 300
+6
+next 400
+dequeuing 400
+5
+next 500
+back 900
+back 2000
+0
+front: error, queue is empty, cannot access the front
+back: error, queue is empty, cannot access the back
+0
+front: error, queue is empty, cannot access the front
+back: error, queue is empty, cannot access the back
+enqueue: error, queue is at max size, cannot enqueue
+8
+902
+909
+enqueue: error, queue is at max size, cannot enqueue
+3
+0
+front: error, queue is empty, cannot access the front
+back: error, queue is empty, cannot access the back
